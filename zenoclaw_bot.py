@@ -1,6 +1,6 @@
 """
 ZenoClaw — Automated Crypto Trading Signal Bot for Telegram
-Uses Yahoo Finance API — works from ALL servers worldwide, zero restrictions.
+Uses Yahoo Finance API — works from ALL servers worldwide, zero restrictions. v3
 """
 
 import asyncio
